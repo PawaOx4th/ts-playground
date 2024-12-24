@@ -33,7 +33,7 @@
   // "forwardPorts": [],
 
   // Use 'postCreateCommand' to run commands after the container is created.
-  "postCreateCommand": "echo 'alias cls=\"clear\"' >> ~/.bashrc && pnpm install"
+  "postCreateCommand": "echo 'alias cls=\"clear\"' >> ~/.bashrc && npm i -g @antfu/ni && pnpm install"
 
   // Configure tool-specific properties.
   // "customizations": {},
