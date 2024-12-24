@@ -14,7 +14,13 @@
       "extensions": [
         "esbenp.prettier-vscode",
         "streetsidesoftware.code-spell-checker"
-      ]
+      ],
+      "settings": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "workbench.colorTheme": "Catppuccin Macchiato",
+        "workbench.iconTheme": "catppuccin-mocha"
+      }
     }
   },
 
