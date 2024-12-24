@@ -19,7 +19,8 @@
         "editor.formatOnSave": true,
         "editor.defaultFormatter": "esbenp.prettier-vscode",
         "workbench.colorTheme": "Catppuccin Macchiato",
-        "workbench.iconTheme": "catppuccin-mocha"
+        "workbench.iconTheme": "catppuccin-mocha",
+        "editor.fontFamily": "Comic Mono, GeistMono NF, monospace"
       }
     }
   },
