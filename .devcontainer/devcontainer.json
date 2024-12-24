@@ -20,7 +20,8 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode",
         "workbench.colorTheme": "Catppuccin Macchiato",
         "workbench.iconTheme": "catppuccin-mocha",
-        "editor.fontFamily": "Comic Mono, GeistMono NF, monospace"
+        "editor.fontFamily": "Comic Mono, GeistMono NF, monospace",
+        "editor.fontSize": 18
       }
     }
   },
